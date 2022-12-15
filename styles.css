@@ -1,6 +1,9 @@
-h1 {
+.header {
     display:grid;
     place-items:center;
+}
+
+h1 {
     color: #33272a;
 }
 
