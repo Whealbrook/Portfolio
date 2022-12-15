@@ -1,3 +1,9 @@
+header {
+    display:grid;
+    max-height: 100vh;
+    align-items:center;
+    justify-items: center;
+}
 
 h1 {
     color: #33272a;
@@ -5,8 +11,4 @@ h1 {
 
 body {
     background:#faeee7;
-    display:grid;
-    max-height: 100vh;
-    align-items:center;
-    justify-items: center;
 }
