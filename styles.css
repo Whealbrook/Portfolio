@@ -5,10 +5,9 @@
 }
 
 header {
-    display:grid;
+    display: grid;
+    place-items: center;
     min-height: 100vh;
-    align-items: center;
-    justify-items: center;
 }
 
 h1 {
@@ -16,5 +15,5 @@ h1 {
 }
 
 body {
-    background:#faeee7;
+    background-color:#faeee7;
 }
