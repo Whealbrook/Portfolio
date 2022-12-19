@@ -5,9 +5,7 @@
 }
 
 header {
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
+    
 }
 
 h1 {
@@ -17,4 +15,7 @@ h1 {
 body {
     background-color:#faeee7;
     font-family: sans-serif, Arial;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
